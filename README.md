@@ -39,9 +39,7 @@ Installation
 Clone the repository:
 
 bash
-Copy
-git clone https://github.com/your-username/virtual-paint.git
-cd virtual-paint
+
 Install the required libraries:
 
 bash
