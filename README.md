@@ -38,7 +38,7 @@ Use your hand to hover over the color buttons to change the drawing color or act
 Installation & Setup:
 Clone the repository:
 
-git clone https://github.com/Syam1133/virtual-paint.git
+git clone https://github.com/Syam-1133/Virtual-Paint
 Install dependencies:
 
 pip install opencv-python mediapipe numpy
